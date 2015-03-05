@@ -4,6 +4,8 @@
 
 目前出墙的方式主要有，
 
+ > 注：如果您想给公司路由器折腾自动翻墙，那么建议您参考这个项目， [一个适用于OpenWRT的全平台翻墙路由方案](https://github.com/lifetyper/FreeRouter_V2)
+
 ## VPN 全局模式
  * PPTP 协议
  * L2TP/IPsec 协议
